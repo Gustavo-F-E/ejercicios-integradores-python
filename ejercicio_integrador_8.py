@@ -4,3 +4,6 @@
 #• En esta ocasión los titulares de este tipo de cuenta tienen que ser mayor de edad, por lo  tanto hay que crear un método es_titular_valido() que devuelve verdadero si el titular es  mayor de edad pero menor de 25 años y falso en caso contrario. 
 #• Además, la retirada de dinero sólo se podrá hacer si el titular es válido. 
 #• El método mostrar() debe devolver el mensaje de “Cuenta Joven” y la bonificación de la  cuenta. 
+
+
+#modifico para saber si todo va bien
